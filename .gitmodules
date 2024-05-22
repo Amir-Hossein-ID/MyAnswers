@@ -2,3 +2,7 @@
 	path = Advent of Code/2015
 	url = https://github.com/Amir-Hossein-ID/Advent-of-Code-2015.git
 	branch = master
+[submodule "Quera"]
+	path = Quera
+	url = https://github.com/Amir-Hossein-ID/Quera-Answers.git
+	branch = master
