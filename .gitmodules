@@ -6,3 +6,7 @@
 	path = Quera
 	url = https://github.com/Amir-Hossein-ID/Quera-Answers.git
 	branch = master
+[submodule "Leetcode"]
+	path = Leetcode
+	url = https://github.com/Amir-Hossein-ID/Leetcode-Answers.git
+	branch = master
