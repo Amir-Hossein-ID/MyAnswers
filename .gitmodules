@@ -10,3 +10,7 @@
 	path = Leetcode
 	url = https://github.com/Amir-Hossein-ID/Leetcode-Answers.git
 	branch = master
+[submodule "Codeforces"]
+	path = Codeforces
+	url = https://github.com/Amir-Hossein-ID/Codeforces-Answers.git
+	branch = main
