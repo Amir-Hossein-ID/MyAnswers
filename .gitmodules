@@ -14,3 +14,7 @@
 	path = Codeforces
 	url = https://github.com/Amir-Hossein-ID/Codeforces-Answers.git
 	branch = main
+[submodule "Advent of Code/2016"]
+	path = Advent of Code/2016
+	url = https://github.com/Amir-Hossein-ID/Advent-of-Code-2016.git
+	branch = main
