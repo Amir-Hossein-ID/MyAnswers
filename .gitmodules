@@ -1,6 +1,6 @@
-[submodule "Advent of Code/2015"]
-	path = Advent of Code/2015
-	url = https://github.com/Amir-Hossein-ID/Advent-of-Code-2015.git
+[submodule "Advent of Code"]
+	path = Advent of Code
+	url = https://github.com/Amir-Hossein-ID/Advent-of-Code.git
 	branch = master
 [submodule "Quera"]
 	path = Quera
@@ -13,8 +13,4 @@
 [submodule "Codeforces"]
 	path = Codeforces
 	url = https://github.com/Amir-Hossein-ID/Codeforces-Answers.git
-	branch = main
-[submodule "Advent of Code/2016"]
-	path = Advent of Code/2016
-	url = https://github.com/Amir-Hossein-ID/Advent-of-Code-2016.git
 	branch = main
